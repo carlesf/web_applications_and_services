@@ -1,5 +1,5 @@
 # Web Applications and Services
-By Carles Farré
+By Carles Farré ([carlesf](https://github.com/carlesf))
 
 ### Table of Contents
 1. Introduction
